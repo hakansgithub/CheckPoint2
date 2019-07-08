@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="checkPoint2Test"
+    errors="0" failures="0" hostname="" id="" package="checkPoint2Test" skipped="0"
+    tests="2" time="1.202" timestamp="">
+  
+    <testcase name="Evens and Odds Valid" classname="checkPoint2Test" time="0.9650" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Evens and Odds Invalid" classname="checkPoint2Test" time="0.2370" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
